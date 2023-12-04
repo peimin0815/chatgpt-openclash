@@ -4,10 +4,14 @@
 
 基础规则：ACL4SSR_Online_Full 全分组重度用户使用(与Github同步)  致谢：ACL4SSR
 
+ACL4SSR配置订阅： https://acl4ssr-sub.github.io/
+
 使用方法(到openclash配置文件处更新订阅链接)
 
     https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接(需要使用URL编码，)&config=https://raw.githubusercontent.com/peimin0815/chatgpt-openclash/main/Full.ini
-    
+
+URL在线编码：https://www.bejson.com/enc/urlencode/
+
 控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可
 
 如果更新规则后，仍提示地区不可用，请清除浏览器数据
